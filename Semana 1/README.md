@@ -1,3 +1,5 @@
+## Teste realizado para configurar o ambiente e testar as funcionalidades.
+
 # Os dez maiores estados brasileiros em extensão territorial
 
 Utilizando Go e testes unitários você deverá determinar os dez maiores estados brasileiros em extensão territorial.

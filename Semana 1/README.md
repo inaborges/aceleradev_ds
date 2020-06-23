@@ -1,4 +1,5 @@
-## Teste realizado para configurar o ambiente e testar as funcionalidades.
+# Teste realizado para configurar o ambiente e testar as funcionalidades.
+# Não foi realizado criado nenhum código, apenas utilizado para testar a funcionalidade da ferramenta de envio dos desafios à Codenation.
 
 # Os dez maiores estados brasileiros em extensão territorial
 

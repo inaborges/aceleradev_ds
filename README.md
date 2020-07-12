@@ -2,4 +2,4 @@
 
 Eu participei do bootcamp AceleraDev de Data Science da Codenation em 2020.
 
-![Screenshot](codenation.jpg)
+![Screenshot](codenation.png)

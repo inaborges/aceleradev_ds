@@ -1,5 +1,7 @@
 # Instruções
 
+![progress](https://progress-bar.dev/35/ "progress")
+
 ## Objetivo
 O objetivo deste produto é fornecer um serviço automatizado que recomenda leads para um usuário dado sua atual lista de clientes (Portfólio).
 

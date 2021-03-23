@@ -4,12 +4,12 @@
 
 ### Andamento do projeto: 
 
-[X] Análise exploratória dos dados
-[X] Tratamento dos dados
-[ ] Avaliação de algoritmos
-[ ] Treinamento do modelo
-[ ] Avaliação de performance do modelo
-[ ] Visualização dos resultados
+* [X] Análise exploratória dos dados
+* [X] Tratamento dos dados
+* [ ] Avaliação de algoritmos
+* [ ] Treinamento do modelo
+* [ ] Avaliação de performance do modelo
+* [ ] Visualização dos resultados
 
 ## Objetivo
 O objetivo deste produto é fornecer um serviço automatizado que recomenda leads para um usuário dado sua atual lista de clientes (Portfólio).

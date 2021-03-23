@@ -38,6 +38,7 @@ https://codenation-challenges.s3-us-west-1.amazonaws.com/ml-leads/estaticos_port
 As bases de portfólio poderão ser utilizadas para testar a aderência da solução. Além disso, se a equipe desejar, poderá simular portfólios por meio de amostragens no mercado.
 
 ## Descrição de variáveis
+[Features Dictionary](https://github.com/inaborges/aceleradev_ds/blob/master/Semana%2010%20-%20Desafio%20Final/features_dictionary.pdf)
 
 ## Requisitos técnicos obrigatórios
 Utilizar técnicas de data science e machine learning para desenvolver o projeto;

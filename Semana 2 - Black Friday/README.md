@@ -1,8 +1,34 @@
+![progress](https://progress-bar.dev/100/ "progress")
+
 # Pré-processamento de dados em Python
 
 Neste desafio vamos praticar a manipulação de dados utilizando
 a biblioteca [pandas](https://pandas.pydata.org/). Manipulação de dados é uma das tarefas
 mais fundamentais para um cientista de dados e o pandas - biblioteca mais popular do Python no assunto - ajuda a tornar essa tarefa mais agradável.
+
+## Alguns dos métodos utilizados na manipulação dos dados nessa análise
+```
+pd.read_csv
+.info()
+.dtypes
+.isnull()
+.isna()
+.sum()
+.shape
+.value_counts()
+.query
+.nunique()
+.mean()
+.std()
+.round()
+.max()
+.between
+.all
+```
+Utilizadas para responder por exemplo:
+* Quantas observações e quantas colunas há no dataset? Responda no formato de uma tuple `(n_observacoes, n_colunas)`.
+* Há quantas mulheres com idade entre 26 e 35 anos no dataset?
+
 
 ## Objetivo
 

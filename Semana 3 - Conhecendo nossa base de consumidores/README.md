@@ -1,8 +1,9 @@
 # Conhecendo melhor nossa base de consumidores: qual estado possui os clientes com melhores pontuações de crédito?
 
-<img src="data.png">
 
 ![progress](https://progress-bar.dev/100/ "progress")
+<img src="data.png">
+
 
 ## Objetivo
 
